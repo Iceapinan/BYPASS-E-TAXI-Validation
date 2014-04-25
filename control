@@ -1,0 +1,9 @@
+Package: com.iceapinan.disable-etaxivaildate
+Name: Disable-ETaxi Vaildate
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disable Easy Taxi Vaildate Confirmation form. Twitter @iceapinan
+Maintainer: IceApinan
+Author: IceApinan
+Section: Tweaks
