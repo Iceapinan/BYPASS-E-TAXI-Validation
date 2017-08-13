@@ -1,6 +1,6 @@
 include theos/makefiles/common.mk
 
-TWEAK_NAME = DisableETaxiVaildate
+TWEAK_NAME = BYPASS-E-TAXI-VALIDATION
 DisableETaxiVaildate_FILES = Tweak.xm
 
 include $(THEOS_MAKE_PATH)/tweak.mk

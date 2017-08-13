@@ -1,9 +1,10 @@
 Package: com.iceapinan.e-taxi-bypass
 Name: BYPASS-E-TAXI-VAILDATION
 Depends: mobilesubstrate
-Version: 1.0
 Architecture: iphoneos-arm
 Description: Bypass E-Taxi App Validation / @Twitter @iceapinan
 Maintainer: IceApinan
 Author: IceApinan
 Section: Tweaks
+Version: 1.0-2+debug
+Installed-Size: 72

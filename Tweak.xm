@@ -1,16 +1,14 @@
-%hook ConfirmarPedidoViewController 
+%hook ConfirmarPedidoViewController
 
--(BOOL)validarCampos
+- (BOOL)validarCampos
  {
      return YES;
      %orig;
 }
 
--(BOOL)checkAddressForFavorite {
-     
+- (BOOL)checkAddressForFavorite {
      return NO;
-          %orig;
-
-     }
+     %orig;
+}
 
 %end
